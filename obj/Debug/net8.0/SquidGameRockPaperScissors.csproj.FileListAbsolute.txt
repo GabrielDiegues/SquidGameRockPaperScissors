@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\obj\Debug\net8.0\SquidGameRockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\obj\Debug\net8.0\SquidGameRockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\obj\Debug\net8.0\SquidGameRockPaperScissors.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\obj\Debug\net8.0\SquidGameRockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\bin\Debug\net8.0\SquidGameRockPaperScissors.exe
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\bin\Debug\net8.0\SquidGameRockPaperScissors.deps.json
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\bin\Debug\net8.0\SquidGameRockPaperScissors.runtimeconfig.json
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\bin\Debug\net8.0\SquidGameRockPaperScissors.dll
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\bin\Debug\net8.0\SquidGameRockPaperScissors.pdb
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\obj\Debug\net8.0\SquidGameRockPaperScissors.dll
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\obj\Debug\net8.0\refint\SquidGameRockPaperScissors.dll
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\obj\Debug\net8.0\SquidGameRockPaperScissors.pdb
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\obj\Debug\net8.0\SquidGameRockPaperScissors.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\CSharpPrograms\SquidGameRockPaperScissors\obj\Debug\net8.0\ref\SquidGameRockPaperScissors.dll
