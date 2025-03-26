@@ -1,5 +1,11 @@
 # Rock-Paper-Scissors Game (Jokempo) 🎮✊✋✌
 
+## Group
+- Gabriel Diegues - RM550788
+- Luiza Cristina - RM99367
+- Pedro Palladino - RM551180
+- Renato Izumi - RM99242
+
 ## Overview
 A Portuguese/Brazilian console-based Rock-Paper-Scissors game with:
 - **Two-choice gameplay** (players select 2 options per round)
