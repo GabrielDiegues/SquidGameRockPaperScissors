@@ -1,6 +1,7 @@
 # Rock-Paper-Scissors Game (Jokempo) 🎮✊✋✌
 
 ## Group
+- Bernardo Pinto Rocha - RM99209
 - Gabriel Diegues - RM550788
 - Luiza Cristina - RM99367
 - Pedro Palladino - RM551180
